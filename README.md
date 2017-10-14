@@ -6,17 +6,17 @@ IDEA: Subtitles are parallelly aligned to the scenes. Use the subtitle text to p
 
 APPROACH: Develop an automatic classification model for identifying emotions in each scene. 
 
-** Confusion Matrix **
+**Confusion Matrix**
 ![Conf](1.png)
 
-** Prediction Accuracy for Features **
+**Prediction Accuracy for Features**
 ![Conf](2.png)
 
-** Flow of Emotions on Timeline **
+**Flow of Emotions on Timeline**
 ![Conf](3.png)
 ![Conf](5.png)
 
-** Emotion Cloud **
+**Emotion Cloud**
 ![Conf](6.png)
 
 [Link to the Paper](https://github.com/niteshsurtani/movies_sentiment_analysis/blob/master/NLP_Final_Paper.pdf)
