@@ -6,6 +6,11 @@ IDEA: Subtitles are parallelly aligned to the scenes. Use the subtitle text to p
 
 APPROACH: Develop an automatic classification model for identifying emotions in each scene. 
 
-![Conf](./resources/figure_combined_wo.png)
+![Conf](1.png)
+![Conf](2.png)
+![Conf](3.png)
+![Conf](4.png)
+![Conf](5.png)
+![Conf](6.png)
 
 Paper Link: 
